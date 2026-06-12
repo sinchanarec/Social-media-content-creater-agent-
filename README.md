@@ -18,31 +18,8 @@ An AI-powered Social Media Content Creator Agent that generates engaging content
 - Streamlit (Optional)
 - Git & GitHub
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/social-media-content-creator-agent.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd social-media-content-creator-agent
-```
-
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Add your OpenAI API key:
-
-```python
-OPENAI_API_KEY=your_api_key
-```
+## live demo
+https://chatbot.getmindpal.com/social-media-content-manager-agent-3mb
 
 ## Usage
 
